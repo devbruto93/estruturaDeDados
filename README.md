@@ -18,3 +18,5 @@ Você pode acompanhar todas as aulas da playlist oficial do professor Isidro no 
 
 - Todos os códigos das aulas serão adicionados aqui.
 - O objetivo é praticar e consolidar o aprendizado.
+
+## COMO SE TRATA DE UM REPOSITÓRIO DE ESTUDO, PRATICAMENTE TODO CODIGO AQUI EU IREI COMENTAR ALGUMAS LINHAS PRA ME AJUDAR A FIXAR O CONTEUDO!!!
