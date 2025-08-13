@@ -31,4 +31,4 @@ public class pilha {
   }
 }
 
-//pilha em ingles == stack
+//pilha == stack
