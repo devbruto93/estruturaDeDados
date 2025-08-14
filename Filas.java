@@ -1,10 +1,10 @@
-public class filas {
+public class Filas {
   private int[] valores;
   private int inicio;
   private int fim;
   private int total;
 
-  public filas(){
+  public Filas(){
     valores = new int[10];
     inicio = 0;
     fim = 0;

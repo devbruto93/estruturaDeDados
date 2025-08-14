@@ -1,8 +1,8 @@
-public class pilha {
+public class Pilha {
   private int valores[];
   private int topo;
 
-  public pilha(){
+  public Pilha(){
     valores = new int[10];
     topo = -1; /*indica que a pilha esta vazia, 
     no Java a posiçao inicial de um vetor é 0,
