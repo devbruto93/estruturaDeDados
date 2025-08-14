@@ -4,6 +4,8 @@ Este repositório contém as aulas sobre **Estrutura de Dados em Java** que esto
 
 As aulas são muito didáticas (quem conhece as aulas do Isidro que o diga) e focadas em ensinar os conceitos fundamentais de estruturas de dados utilizando a linguagem Java.
 
+## LEMBRANDO QUE AQUI SÓ ESTÃO AS CLASSES DE IMPLEMENTAÇÃO DAS ESTRUTURAS, FIZ AS APLICAÇÕES DURANTE AS AULAS PARA FAZER OS TESTES!!!
+
 ---
 
 ## Playlist Estrutura de Dados
